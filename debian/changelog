@@ -1,3 +1,9 @@
+nemo-pdf-tools (0.7.1-0extras13.10.3-aurex1) trusty; urgency=medium
+
+  * Rebuild for aurex 14.04 trusty as no native package
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Thu, 28 Aug 2014 11:11:37 +0200
+
 nemo-pdf-tools (0.7.1-0extras13.10.3) saucy; urgency=low
 
   * Fixed some bugs with Textmarker
