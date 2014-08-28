@@ -1,0 +1,120 @@
+nemo-pdf-tools (0.7.1-0extras13.10.3) saucy; urgency=low
+
+  * Fixed some bugs with Textmarker
+
+ -- Lorenzo <atareao_s@saucy>  Mon, 30 Dec 2013 09:07:59 +0100
+
+nemo-pdf-tools (0.7.1-0extras13.10.2) saucy; urgency=low
+
+  * Fixed some bugs
+
+ -- Lorenzo <atareao_s@saucy>  Sun, 29 Dec 2013 20:52:02 +0100
+
+nemo-pdf-tools (0.7.1-0extras13.10.1) saucy; urgency=low
+
+  * Fixed a bug with dependencies
+
+ -- Lorenzo <atareao_s@saucy>  Sun, 29 Dec 2013 12:39:09 +0100
+
+nemo-pdf-tools (0.7.1-0extras13.10.0) saucy; urgency=low
+
+  * Remove PyPdf all dependencies. All manipulation is done with cairo.
+
+ -- Lorenzo <atareao_s@saucy>  Sun, 29 Dec 2013 12:23:16 +0100
+
+nemo-pdf-tools (0.7.0-0extras13.10.0) saucy; urgency=low
+
+  * Added new feature to flip pdfs
+  * Added a dialog to show flip and rotate operations  
+  * Using cairo to rotate and flip pdfs
+  * Added a new feature to watermark pdfs with png images
+
+ -- Lorenzo <atareao_s@saucy>  Sat, 28 Dec 2013 20:22:44 +0100
+
+nemo-pdf-tools (0.6.4-0extras13.10.0) saucy; urgency=low
+
+  * Ported to saucy
+
+ -- Lorenzo <atareao_s@saucy>  Wed, 20 Nov 2013 12:30:23 +0100
+
+nemo-pdf-tools (0.6.3-0extras13.04.2) raring; urgency=low
+
+  * Ported to raring
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 02 Jun 2013 23:06:43 +0200
+
+nemo-pdf-tools (0.0.6.2-1ubuntu1) precise; urgency=low
+
+  * Added new paper sizes
+
+ -- lorenzo <lorenzo@aao>  Tue, 14 Aug 2012 10:33:13 +0200
+
+nemo-pdf-tools (0.0.6.1-1ubuntu1) precise; urgency=low
+
+  * Fixed a bug with extract text feature
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 31 Mar 2012 20:44:25 +0200
+
+nemo-pdf-tools (0.0.6.0-1ubuntu1) precise; urgency=low
+
+  * Modified resize feature
+  * Added extract text feature
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 31 Mar 2012 19:30:59 +0200
+
+nemo-pdf-tools (0.0.5.0-1ubuntu1) precise; urgency=low
+
+  * Added resize feature
+  * Added spanish translation
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 25 Mar 2012 19:10:16 +0200
+
+nemo-pdf-tools (0.0.4.0-1ubuntu1) precise; urgency=low
+
+  * Added combination feature
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 25 Mar 2012 12:24:59 +0200
+
+nemo-pdf-tools (0.0.3.1-1ubuntu1) precise; urgency=low
+
+  * Updated spanish translation
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 17 Mar 2012 08:41:07 +0100
+
+nemo-pdf-tools (0.0.3.0-1ubuntu1) precise; urgency=low
+
+  * New dialog to rotate some pages
+  * New dialog to extract pages from file
+  * New dialog to remove pages from file
+  * Now you can order files to join
+  * Split one pdf file in pages
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 17 Mar 2012 08:28:30 +0100
+
+nemo-pdf-tools (0.0.2.0-1ubuntu1) precise; urgency=low
+
+  * Fixed a bug with spaces in filenames
+  * Rotate some pages of the file
+  * Extract pages of the file
+  * Remove pages of the file
+  * Merge several files in one
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Thu, 08 Mar 2012 06:58:49 +0100
+
+nemo-pdf-tools (0.0.1.2-1ubuntu1) precise; urgency=low
+
+  * Fixed a bug with special characters
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Mon, 27 Feb 2012 22:44:35 +0100
+
+nemo-pdf-tools (0.0.1.1-1ubuntu1) precise; urgency=low
+
+  * Fixed a bug with package
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 26 Feb 2012 20:49:00 +0100
+
+nemo-pdf-tools (0.0.1.0-1ubuntu1) precise; urgency=low
+
+  * First release
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 22 Jan 2012 22:00:22 +0100
